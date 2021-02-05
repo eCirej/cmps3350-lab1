@@ -6,6 +6,7 @@ int main(int argc, char ** argv)
 {
     for(int i = 1; i < argc; i++) {
         printf("arg %d: %s\n", i, argv[i]);
+        printf("task-1 test \n");
     }
     return 0;
 }

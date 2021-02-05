@@ -1,0 +1,1 @@
+I have used git to obtain and run programs made by other people and have followed their instructions using homebrew and the like, but I do not know the details as to what each command does.
